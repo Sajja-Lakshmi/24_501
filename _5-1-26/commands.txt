@@ -1,0 +1,10 @@
+sudo apt update
+sudo apt install vim
+sudo apt intall build-essential
+sudo apt install git
+git push
+git commit -m "Message"
+git add <file>
+git (email and user name)
+(remote and smtg)
+(folder to git)
